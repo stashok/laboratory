@@ -1,2 +1,3 @@
-# laboratory
-lab #1
+Alexander Stashkevich
+1-7-2
+Poibms
